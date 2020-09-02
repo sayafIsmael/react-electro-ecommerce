@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Banner() {
+export default function BannerThreeColumn() {
     return (
         <div className="row mb-6 flex-nowrap flex-xl-wrap overflow-auto overflow-xl-visble">
             <div className="col-md-6 mb-4 mb-xl-0 col-xl-4 col-wd-3 flex-shrink-0 flex-xl-shrink-1">

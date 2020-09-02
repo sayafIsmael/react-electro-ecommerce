@@ -21,6 +21,7 @@
 
   <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/animate.css/animate.min.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/hs-megamenu/src/hs.megamenu.css">
+  <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/ion-rangeslider/css/ion.rangeSlider.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/fancybox/jquery.fancybox.css">
   <link rel="stylesheet" href="%PUBLIC_URL%/assets/vendor/slick-carousel/slick/slick.css">
@@ -77,6 +78,7 @@
   <script src="%PUBLIC_URL%/assets/js/components/hs.fancybox.js"></script>
   <script src="%PUBLIC_URL%/assets/js/components/hs.onscroll-animation.js"></script>
   <script src="%PUBLIC_URL%/assets/js/components/hs.slick-carousel.js"></script>
+  <script src="%PUBLIC_URL%/assets/js/components/hs.range-slider.js"></script>
   <script src="%PUBLIC_URL%/assets/js/components/hs.show-animation.js"></script>
   <script src="%PUBLIC_URL%/assets/js/components/hs.svg-injector.js"></script>
   <script src="%PUBLIC_URL%/assets/js/components/hs.go-to.js"></script>
@@ -135,6 +137,9 @@
           }
         }
       });
+
+      // initialization of forms
+      $.HSCore.components.HSRangeSlider.init('.js-range-slider');
 
       // initialization of show animations
       $.HSCore.components.HSShowAnimation.init('.js-animation-link');
