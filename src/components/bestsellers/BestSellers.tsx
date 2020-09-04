@@ -41,7 +41,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -68,7 +68,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -95,7 +95,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -122,7 +122,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -149,7 +149,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -176,7 +176,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -203,7 +203,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -230,7 +230,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -263,18 +263,18 @@ export default function BestSellers(){
                                                             <h5 className="mb-0 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Game Console Controller + USB 3.0 Cable</a></h5>
                                                         </div>
                                                         <div className="mb-1 min-height-8-1">
-                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="../../assets/img/564X520/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="/assets/img/564X520/img2.jpg" alt="Image Description"/></a>
                                                             {/* <!-- Gallery --> */}
                                                             <div className="row mx-gutters-2 mb-3">
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img1.jpg"
+                                                                        data-src="/assets/img/1920X1080/img1.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #01"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img1.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img1.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -288,12 +288,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img2.jpg"
+                                                                        data-src="/assets/img/1920X1080/img2.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #02"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img2.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img2.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -307,12 +307,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img3.jpg"
+                                                                        data-src="/assets/img/1920X1080/img3.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #03"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img3.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img3.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -359,7 +359,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -386,7 +386,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -413,7 +413,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -440,7 +440,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -467,7 +467,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -494,7 +494,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -521,7 +521,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -548,7 +548,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -581,18 +581,18 @@ export default function BestSellers(){
                                                             <h5 className="mb-0 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Game Console Controller + USB 3.0 Cable</a></h5>
                                                         </div>
                                                         <div className="mb-1 min-height-8-1">
-                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="../../assets/img/564X520/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="/assets/img/564X520/img2.jpg" alt="Image Description"/></a>
                                                             {/* <!-- Gallery --> */}
                                                             <div className="row mx-gutters-2 mb-3">
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img1.jpg"
+                                                                        data-src="/assets/img/1920X1080/img1.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #01"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img1.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img1.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -606,12 +606,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img2.jpg"
+                                                                        data-src="/assets/img/1920X1080/img2.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #02"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img2.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img2.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -625,12 +625,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img3.jpg"
+                                                                        data-src="/assets/img/1920X1080/img3.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #03"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img3.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img3.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -677,7 +677,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -704,7 +704,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -731,7 +731,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -758,7 +758,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -785,7 +785,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -812,7 +812,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -839,7 +839,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -866,7 +866,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -899,18 +899,18 @@ export default function BestSellers(){
                                                             <h5 className="mb-0 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Game Console Controller + USB 3.0 Cable</a></h5>
                                                         </div>
                                                         <div className="mb-1 min-height-8-1">
-                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="../../assets/img/564X520/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="/assets/img/564X520/img2.jpg" alt="Image Description"/></a>
                                                             {/* <!-- Gallery --> */}
                                                             <div className="row mx-gutters-2 mb-3">
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img1.jpg"
+                                                                        data-src="/assets/img/1920X1080/img1.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #01"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img1.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img1.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -924,12 +924,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img2.jpg"
+                                                                        data-src="/assets/img/1920X1080/img2.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #02"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img2.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img2.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -943,12 +943,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img3.jpg"
+                                                                        data-src="/assets/img/1920X1080/img3.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #03"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img3.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img3.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -995,7 +995,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1022,7 +1022,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1049,7 +1049,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1076,7 +1076,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1103,7 +1103,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1130,7 +1130,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Tablet White EliteBook Revolve 810 G2</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1157,7 +1157,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1184,7 +1184,7 @@ export default function BestSellers(){
                                                         <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                                         <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">GameConsole Destiny  Special Edition</a></h5>
                                                         <div className="mb-2">
-                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description"/></a>
+                                                            <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description"/></a>
                                                         </div>
                                                         <div className="flex-center-between mb-1">
                                                             <div className="prodcut-price">
@@ -1217,18 +1217,18 @@ export default function BestSellers(){
                                                             <h5 className="mb-0 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Game Console Controller + USB 3.0 Cable</a></h5>
                                                         </div>
                                                         <div className="mb-1 min-height-8-1">
-                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="../../assets/img/564X520/img2.jpg" alt="Image Description"/></a>
+                                                            <a href="#" className="d-block text-center my-4 mt-lg-6 mb-xl-5 mb-lg-0 mt-xl-0 mb-xl-0 mt-wd-6 mb-wd-5"><img className="img-fluid" src="/assets/img/564X520/img2.jpg" alt="Image Description"/></a>
                                                             {/* <!-- Gallery --> */}
                                                             <div className="row mx-gutters-2 mb-3">
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img1.jpg"
+                                                                        data-src="/assets/img/1920X1080/img1.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #01"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img1.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img1.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -1242,12 +1242,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img2.jpg"
+                                                                        data-src="/assets/img/1920X1080/img2.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #02"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img2.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img2.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">
@@ -1261,12 +1261,12 @@ export default function BestSellers(){
                                                                 <div className="col-auto">
                                                                     {/* <!-- Gallery --> */}
                                                                     <a className="js-fancybox max-width-60 u-media-viewer" href="javascript:;"
-                                                                        data-src="../../assets/img/1920X1080/img3.jpg"
+                                                                        data-src="/assets/img/1920X1080/img3.jpg"
                                                                         data-fancybox="fancyboxGallery6"
                                                                         data-caption="Electro in frames - image #03"
                                                                         data-speed="700"
                                                                         data-is-infinite="true">
-                                                                        <img className="img-fluid border" src="../../assets/img/100X100/img3.jpg" alt="Image Description"/>
+                                                                        <img className="img-fluid border" src="/assets/img/100X100/img3.jpg" alt="Image Description"/>
 
                                                                         <span className="u-media-viewer__container">
                                                                             <span className="u-media-viewer__icon">

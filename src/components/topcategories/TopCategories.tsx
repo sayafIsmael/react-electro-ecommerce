@@ -12,7 +12,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img1.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img1.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -35,7 +35,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img2.png" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img2.png" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -58,7 +58,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img3.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img3.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -81,7 +81,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img4.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img4.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -104,7 +104,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img5.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img5.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -127,7 +127,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img6.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img6.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -150,7 +150,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img7.png" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img7.png" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">
@@ -173,7 +173,7 @@ export default function TopCategories() {
                     <div className="row align-items-center align-items-xl-start">
                         <div className="col-md-5 mb-3 mb-md-0">
                             <a href="../shop/product-categories-7-column-full-width.html" className="d-block">
-                                <img className="img-fluid" src="../../assets/img/300X300/img8.jpg" alt="Image Description" />
+                                <img className="img-fluid" src="/assets/img/300X300/img8.jpg" alt="Image Description" />
                             </a>
                         </div>
                         <div className="col-md-7 pl-lg-0">

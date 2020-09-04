@@ -302,10 +302,10 @@ export default function Header() {
                                                     </div>
                                                     <div className="col-md-3">
                                                         <a href="#" className="d-block mb-3">
-                                                            <img className="img-fluid" src="../../assets/img/300X275/img1.jpg" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/300X275/img1.jpg" alt="Image Description" />
                                                         </a>
                                                         <a href="#" className="d-block">
-                                                            <img className="img-fluid" src="../../assets/img/300X275/img2.jpg" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/300X275/img2.jpg" alt="Image Description" />
                                                         </a>
                                                     </div>
                                                 </div>
@@ -400,7 +400,7 @@ export default function Header() {
                                                     </div>
                                                     <div className="col-md-4">
                                                         <a href="#" className="d-block">
-                                                            <img className="img-fluid" src="../../assets/img/1024X1024/img1.jpg" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/1024X1024/img1.jpg" alt="Image Description" />
                                                         </a>
                                                     </div>
                                                 </div>
@@ -496,7 +496,7 @@ export default function Header() {
                                                     </div>
                                                     <div className="col-md-4">
                                                         <a href="#" className="d-block">
-                                                            <img className="img-fluid" src="../../assets/img/1024X1024/img2.jpg" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/1024X1024/img2.jpg" alt="Image Description" />
                                                         </a>
                                                     </div>
                                                 </div>
@@ -519,7 +519,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col-md-6 mb-3">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img3.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img3.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6 mb-3">
@@ -532,7 +532,7 @@ export default function Header() {
                                                             </div>
                                                             <div className="col-md-6">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img4.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img4.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6">
@@ -550,7 +550,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col-md-6 mb-3">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img5.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img5.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6 mb-3">
@@ -565,7 +565,7 @@ export default function Header() {
                                                             </div>
                                                             <div className="col-md-6">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img6.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img6.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6">
@@ -584,7 +584,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col-md-6 mb-3">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img7.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img7.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6 mb-3">
@@ -599,7 +599,7 @@ export default function Header() {
                                                             </div>
                                                             <div className="col-md-6">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img8.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img8.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col-md-6">
@@ -702,7 +702,7 @@ export default function Header() {
                                                     </div>
                                                     <div className="col-md-4">
                                                         <a href="#" className="d-block">
-                                                            <img className="img-fluid" src="../../assets/img/1024X1024/img3.jpg" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/1024X1024/img3.jpg" alt="Image Description" />
                                                         </a>
                                                     </div>
                                                 </div>
@@ -798,7 +798,7 @@ export default function Header() {
                                                     </div>
                                                     <div className="col-md-4">
                                                         <a href="#" className="d-block">
-                                                            <img className="img-fluid" src="../../assets/img/1024X1024/img4.png" alt="Image Description" />
+                                                            <img className="img-fluid" src="/assets/img/1024X1024/img4.png" alt="Image Description" />
                                                         </a>
                                                     </div>
                                                 </div>
@@ -821,7 +821,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img9.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img9.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col">
@@ -840,7 +840,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img10.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img10.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col">
@@ -859,7 +859,7 @@ export default function Header() {
                                                         <div className="row">
                                                             <div className="col">
                                                                 <a href="#" className="d-block">
-                                                                    <img className="img-fluid" src="../../assets/img/300X275/img11.jpg" alt="Image Description" />
+                                                                    <img className="img-fluid" src="/assets/img/300X275/img11.jpg" alt="Image Description" />
                                                                 </a>
                                                             </div>
                                                             <div className="col">

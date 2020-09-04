@@ -34219,6 +34219,11 @@ blockquote:not(.blockquote) p {
   border-bottom: 1px solid #dddddd;
 }
 
+.sidebar-navbar.view-one > li {
+  border-bottom: 1px solid #dddddd;
+  margin: 0 0.875rem;
+}
+
 .sidebar-navbar.view-all .dropdown-list li .dropdown-item,
 .sidebar-navbar.view-all .dropdown-list li .dropdown-toggle {
   border-bottom-width: 0;

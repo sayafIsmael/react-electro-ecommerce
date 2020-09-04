@@ -1,20 +1,21 @@
 import React from 'react'
-import HeaderGLobal from './../../components/header-global/HeaderGlobal'
+import Layout from "./../../components/layouts/Layout"
 import Breadcrumb from './../../components/breadcrumb/Breadcrumb'
-import CategoryListLeft from './../../components/category-list-left/CategoryListLeft'
+import ShopLeftSidebar from '../../components/shop-left-sidebar/ShopLeftSidebar'
+import RecommendedProducts from './../../components/recommended-products/RecommendedProducts'
+import  
 
 export default function Shop() {
     return (
-        <React.Fragment>
-            <HeaderGLobal />
-            <main id="content" role="main">
-                <Breadcrumb />
-                <div className="container">
-                    <div className="row mb-8">
-                        <CategoryListLeft />
-                    </div>
+        <Layout>
+            <Breadcrumb />
+            <div className="container">
+                <div className="row mb-8">
+                    <ShopLeftSidebar />
+                    <RecommendedProducts />
+                    
                 </div>
-            </main>
-        </React.Fragment>
+            </div>
+        </Layout>
     )
 }

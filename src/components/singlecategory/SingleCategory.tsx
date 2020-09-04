@@ -17,7 +17,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -46,7 +46,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img2.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img2.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -75,7 +75,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img3.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img3.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -104,7 +104,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img4.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img4.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -133,7 +133,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img5.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img5.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -162,7 +162,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img7.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img7.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -195,7 +195,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img4.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img4.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -224,7 +224,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img5.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img5.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -253,7 +253,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img7.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img7.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -282,7 +282,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -311,7 +311,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img2.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img2.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -340,7 +340,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img3.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img3.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -373,7 +373,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -402,7 +402,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img2.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img2.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -431,7 +431,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto col-xl-5 col-wd-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="../../assets/img/150X140/img3.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block"><img className="img-fluid" src="/assets/img/150X140/img3.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col col-xl-7 col-wd product-item__body pl-2 pl-lg-3 pl-xl-3 pl-wd-3 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -460,7 +460,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img4.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img4.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -489,7 +489,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img5.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img5.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">
@@ -518,7 +518,7 @@ export default function SingleCategory() {
                             <div className="product-item__outer h-100 w-100">
                                 <div className="product-item__inner p-md-3 row no-gutters">
                                     <div className="col col-lg-auto product-media-left">
-                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="../../assets/img/150X140/img7.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="max-width-150 d-block" ><img className="img-fluid" src="/assets/img/150X140/img7.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="col product-item__body pl-2 pl-lg-3 mr-xl-2 mr-wd-1">
                                         <div className="mb-4 mb-xl-2 mb-wd-6">

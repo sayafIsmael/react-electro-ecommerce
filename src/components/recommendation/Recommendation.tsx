@@ -47,7 +47,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -76,7 +76,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img2.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img2.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -105,7 +105,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img3.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img3.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -134,7 +134,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img4.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img4.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -163,7 +163,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img5.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img5.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -192,7 +192,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img6.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img6.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -221,7 +221,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img7.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img7.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -250,7 +250,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
@@ -279,7 +279,7 @@ export default function Recommendation() {
                                     <div className="mb-2"><a href="../shop/product-categories-7-column-full-width.html" className="font-size-12 text-gray-5">Speakers</a></div>
                                     <h5 className="mb-1 product-item__title"><a href="../shop/single-product-fullwidth.html" className="text-blue font-weight-bold">Wireless Audio System Multiroom 360 degree Full base audio</a></h5>
                                     <div className="mb-2">
-                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="../../assets/img/212X200/img1.jpg" alt="Image Description" /></a>
+                                        <a href="../shop/single-product-fullwidth.html" className="d-block text-center"><img className="img-fluid" src="/assets/img/212X200/img1.jpg" alt="Image Description" /></a>
                                     </div>
                                     <div className="flex-center-between mb-1">
                                         <div className="prodcut-price">
