@@ -1,4 +1,84 @@
 import React from 'react'
+import { Link } from "react-router-dom";
+import Slider from "react-slick";
+import './recommendation.scss'
+
+function NextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div className="js-next position-absolute top-0 font-size-17 u-slick__arrow-normal top-10 pt-6 pt-md-0 fa fa-angle-right right-1 slick-arrow"
+            style={{ ...style }}
+            onClick={onClick}
+        />
+    );
+}
+
+function PrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div
+            className={"js-prev position-absolute top-0 font-size-17 u-slick__arrow-normal top-10 pt-6 pt-md-0 fa fa-angle-left right-2 slick-arrow"}
+            style={{ ...style }}
+            onClick={onClick}
+        />
+
+    );
+}
+
+const sliderSettings = {
+    // autoplay: true,
+    draggable: true,
+    autoplaySpeed: 5000,
+    dots: true,
+    className: "position-static overflow-hidden u-slick-overflow-visble pb-7 pt-2 px-1",
+    // dotsClass: "",
+    // infinite: true,
+    speed: 500,
+    initialSlide: 0,
+    slidesToShow: 7,
+    slidesToScroll: 1,
+    responsive: [{
+        breakpoint: 1400,
+        settings: {
+            slidesToShow: 6
+        }
+    }, {
+        breakpoint: 1200,
+        settings: {
+            slidesToShow: 3
+        }
+    }, {
+        breakpoint: 992,
+        settings: {
+            slidesToShow: 3
+        }
+    }, {
+        breakpoint: 768,
+        settings: {
+            slidesToShow: 2
+        }
+    }, {
+        breakpoint: 554,
+        settings: {
+            slidesToShow: 2
+        }
+    }],
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
+    appendDots: dots => (
+        <div style={{}}>
+            <ul
+                className="text-center right-0 bottom-1 left-0 u-slick__pagination u-slick__pagination--long mb-0 z-index-n1 mt-3 mt-md-0"
+                style={{}}> {dots} </ul>
+        </div>
+    ),
+    customPaging: i => (
+        <div>
+            <span></span>
+        </div >
+    )
+}
+
 
 export default function Recommendation() {
     return (
@@ -6,41 +86,9 @@ export default function Recommendation() {
             <div className="border-bottom border-color-1 mb-2">
                 <h3 className="section-title section-title__full d-inline-block mb-0 pb-2 font-size-22">Recommendation for you</h3>
             </div>
-            <div className="js-slick-carousel u-slick position-static overflow-hidden u-slick-overflow-visble pb-7 pt-2 px-1"
-                data-pagi-classes="text-center right-0 bottom-1 left-0 u-slick__pagination u-slick__pagination--long mb-0 z-index-n1 mt-3 mt-md-0"
-                data-slides-show="7"
-                data-slides-scroll="1"
-                data-arrows-classes="position-absolute top-0 font-size-17 u-slick__arrow-normal top-10"
-                data-arrow-left-classes="fa fa-angle-left right-1"
-                data-arrow-right-classes="fa fa-angle-right right-0"
-                data-responsive='[{
-                          "breakpoint": 1400,
-                          "settings": {
-                            "slidesToShow": 6
-                          }
-                        }, {
-                            "breakpoint": 1200,
-                            "settings": {
-                              "slidesToShow": 3
-                            }
-                        }, {
-                          "breakpoint": 992,
-                          "settings": {
-                            "slidesToShow": 3
-                          }
-                        }, {
-                          "breakpoint": 768,
-                          "settings": {
-                            "slidesToShow": 2
-                          }
-                        }, {
-                          "breakpoint": 554,
-                          "settings": {
-                            "slidesToShow": 2
-                          }
-                        }]'>
+            <Slider {...sliderSettings}>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix" >
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -69,7 +117,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -98,7 +146,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -127,7 +175,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -156,7 +204,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -185,7 +233,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -214,7 +262,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -243,7 +291,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -272,7 +320,7 @@ export default function Recommendation() {
                     </div>
                 </div>
                 <div className="js-slide products-group">
-                    <div className="product-item">
+                    <div className="product-item product-item-hover-fix">
                         <div className="product-item__outer h-100 w-100">
                             <div className="product-item__inner px-wd-4 p-2 p-md-3">
                                 <div className="product-item__body pb-xl-2">
@@ -300,7 +348,7 @@ export default function Recommendation() {
                         </div>
                     </div>
                 </div>
-            </div>
+            </Slider>
         </div>
     )
 }

@@ -1,5 +1,57 @@
 import React from 'react'
 import { Link } from "react-router-dom";
+import Slider from "react-slick";
+import { chunkArray } from './../../helpers/helper'
+
+function NextArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div className="js-next position-absolute top-0 font-size-17 u-slick__arrow-normal top-10 pt-6 pt-md-0 fa fa-angle-right right-1 slick-arrow"
+            style={{ ...style }}
+            onClick={onClick}
+        />
+    );
+}
+
+function PrevArrow(props) {
+    const { className, style, onClick } = props;
+    return (
+        <div
+            className={"js-prev position-absolute top-0 font-size-17 u-slick__arrow-normal top-10 pt-6 pt-md-0 fa fa-angle-left right-2 slick-arrow"}
+            style={{ ...style }}
+            onClick={onClick}
+        />
+
+    );
+}
+
+const sliderSettings = {
+    // autoplay: true,
+    draggable:true,
+    autoplaySpeed: 5000,
+    dots: true,
+    className: "position-static overflow-hidden u-slick-overflow-visble pt-3 pb-3",
+    // dotsClass: "",
+    infinite: true,
+    speed: 500,
+    initialSlide: 0,
+    nextArrow: <NextArrow />,
+    prevArrow: <PrevArrow />,
+    appendDots: dots => (
+        <div style={{}}>
+            <ul
+                className="text-center right-0 bottom-1 left-0 u-slick__pagination u-slick__pagination--long mb-0 z-index-n1 mt-4"
+                style={{}}> {dots} </ul>
+        </div>
+    ),
+    customPaging: i => (
+        <div>
+            <span></span>
+        </div >
+    )
+}
+
+
 
 export default function SingleCategory() {
     return (
@@ -7,11 +59,7 @@ export default function SingleCategory() {
             <div className="d-flex justify-content-between border-bottom border-color-1 flex-md-nowrap flex-wrap border-sm-bottom-0">
                 <h3 className="section-title section-title__full mb-0 pb-2 font-size-22">Laptops & Computers</h3>
             </div>
-            <div className="js-slick-carousel position-static u-slick u-slick--gutters-1 overflow-hidden u-slick-overflow-visble pt-3 pb-3"
-                data-arrows-classes="position-absolute top-0 font-size-17 u-slick__arrow-normal top-10"
-                data-arrow-left-classes="fa fa-angle-left right-1"
-                data-arrow-right-classes="fa fa-angle-right right-0"
-                data-pagi-classes="text-center right-0 bottom-1 left-0 u-slick__pagination u-slick__pagination--long mb-0 z-index-n1 mt-4">
+            <Slider {...sliderSettings}>
                 <div className="js-slide">
                     <ul className="row list-unstyled products-group no-gutters mb-0 overflow-visible">
                         <li className="col-md-4 product-item product-item__card pb-2 mb-2 pb-md-0 mb-md-0 border-bottom border-md-bottom-0">
@@ -546,7 +594,7 @@ export default function SingleCategory() {
                         </li>
                     </ul>
                 </div>
-            </div>
+            </Slider>
         </div>
     )
 }
