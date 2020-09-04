@@ -1,6 +1,6 @@
 import React from "react";
 import Layout from "./../../components/layouts/Layout"
-import Slider from "./../../components/slider/Slider"
+import Slider from "../../components/slider/SliderHome"
 import BannerThreeColumn from "../../components/banner/BannerThreeColumn"
 import BannerTwoColumn from "../../components/banner/BannerTwoColumn"
 import FeatureList from "../../components/featurelist/FeatureList"

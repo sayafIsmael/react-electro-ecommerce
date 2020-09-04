@@ -26,6 +26,7 @@ function PrevArrow(props) {
 
 const sliderSettings = {
     // autoplay: true,
+    draggable:true,
     autoplaySpeed: 5000,
     dots: true,
     className: "js-slick-carousel u-slick position-static overflow-hidden u-slick-overflow-visble pb-7 pt-2 px-1",
@@ -64,18 +65,10 @@ const sliderSettings = {
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
     appendDots: dots => (
-        <div
-            style={{
-
-            }}
-        >
+        <div style={{}}>
             <ul
                 className="js-pagination text-center right-0 bottom-1 left-0 u-slick__pagination u-slick__pagination--long mb-0 z-index-n1 mt-3 mt-md-0"
-                style={{
-                    margin: '0 0.4375rem',
-                    display: 'flex',
-                    pointerEvents: 'all',
-                }}> {dots} </ul>
+                style={{}}> {dots} </ul>
         </div>
     ),
     customPaging: i => (
