@@ -1,9 +1,18 @@
-import React from "react";
+import React, { useState } from 'react';
 import ElectroLogo from './svg/ElectroLogo';
 import Topbar from './../topbar/Topbar';
 import HeaderSidebar from './../headersidebar/HeaderSidebar';
 
 export default function Header() {
+    const [namItm1Hovered, setNamItm1Hovered] = useState(false);
+    const [namItm2Hovered, setNamItm2Hovered] = useState(false);
+    const [namItm3Hovered, setNamItm3Hovered] = useState(false);
+    const [namItm4Hovered, setNamItm4Hovered] = useState(false);
+    const [namItm5Hovered, setNamItm5Hovered] = useState(false);
+    const [namItm6Hovered, setNamItm6Hovered] = useState(false);
+    const [namItm7Hovered, setNamItm7Hovered] = useState(false);
+    const [namItm8Hovered, setNamItm8Hovered] = useState(false);
+
     return (
         /* <!-- ========== HEADER ========== -->*/
         <header id="header" className="u-header u-header-left-aligned-nav">
@@ -43,7 +52,7 @@ export default function Header() {
                                 </nav>
                                 {/* <!-- End Nav --> */}
 
-                                <HeaderSidebar/>
+                                <HeaderSidebar />
                             </div>
                             {/* <!-- End Logo-offcanvas-menu --> */}
                             {/* <!-- Search Bar --> */}
@@ -134,15 +143,18 @@ export default function Header() {
                                 <div id="navBar" className="collapse navbar-collapse u-header__navbar-collapse">
                                     <ul className="navbar-nav u-header__navbar-nav">
                                         {/* <!-- Home --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm1Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm1Hovered(true)}
+                                            onMouseLeave={() => setNamItm1Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut"
-                                            data-position="left">
+                                            data-position="left"
+                                        >
                                             <a id="homeMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Home</a>
 
                                             {/* <!-- Home - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="homeMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="homeMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-3">
                                                         <span className="u-header__sub-menu-title">Home & Static Pages</span>
@@ -225,14 +237,16 @@ export default function Header() {
                                         {/* <!-- End Home --> */}
 
                                         {/* <!-- TV & Audio --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm2Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm2Hovered(true)}
+                                            onMouseLeave={() => setNamItm2Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="TVMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">TV & Audio</a>
 
                                             {/* <!-- TV & Audio - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="TVMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="TVMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-3">
                                                         <span className="u-header__sub-menu-title">Televisions</span>
@@ -315,14 +329,16 @@ export default function Header() {
                                         {/* <!-- End Pages --> */}
 
                                         {/* <!-- Smart Phones --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm3Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm3Hovered(true)}
+                                            onMouseLeave={() => setNamItm3Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="smartphonesMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Smart Phones</a>
 
                                             {/* <!-- Smart Phones - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="smartphonesMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="smartphonesMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-8">
                                                         <div className="row">
@@ -410,14 +426,16 @@ export default function Header() {
                                         {/* <!-- End Blog --> */}
 
                                         {/* <!-- Laptops & Desktops --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm4Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm4Hovered(true)}
+                                            onMouseLeave={() => setNamItm4Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="laptopsdesktopsMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Laptops & Desktops</a>
 
                                             {/* <!-- Laptops & Desktops - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="laptopsdesktopsMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="laptopsdesktopsMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-8">
                                                         <div className="row">
@@ -506,14 +524,16 @@ export default function Header() {
                                         {/* <!-- End Laptops & Desktops --> */}
 
                                         {/* <!-- Gadgets --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm5Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm5Hovered(true)}
+                                            onMouseLeave={() => setNamItm5Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="GadgetsMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Gadgets</a>
 
                                             {/* <!-- Gadgets - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="GadgetsMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="GadgetsMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-4">
                                                         <div className="row">
@@ -621,14 +641,16 @@ export default function Header() {
                                         {/* <!-- End Gadgets --> */}
 
                                         {/* <!-- GPS & Car --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm6Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm6Hovered(true)}
+                                            onMouseLeave={() => setNamItm6Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="GPSCarMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">GPS & Car</a>
 
                                             {/* <!-- GPS & Car - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="GPSCarMegaMenu" style={{ minWidth: 330 }}>
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="GPSCarMegaMenu" style={{ minWidth: 330 }}>
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-8">
                                                         <div className="row">
@@ -712,14 +734,16 @@ export default function Header() {
                                         {/* <!-- End GPS & Car --> */}
 
                                         {/* <!-- Cameras & Accessories --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm7Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm7Hovered(true)}
+                                            onMouseLeave={() => setNamItm7Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="CamerasAccessoriesMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Cameras & Accessories</a>
 
                                             {/* <!-- Cameras & Accessories - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="CamerasAccessoriesMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="CamerasAccessoriesMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-8">
                                                         <div className="row">
@@ -808,14 +832,16 @@ export default function Header() {
                                         {/* <!-- End Cameras & Accessories --> */}
 
                                         {/* <!-- Movies & Games --> */}
-                                        <li className="nav-item hs-has-mega-menu u-header__nav-item"
+                                        <li className={`nav-item hs-has-mega-menu u-header__nav-item ${namItm8Hovered ? 'hs-mega-menu-opened': ''}`}
+                                            onMouseEnter={() => setNamItm8Hovered(true)}
+                                            onMouseLeave={() => setNamItm8Hovered(false)}
                                             data-event="hover"
                                             data-animation-in="slideInUp"
                                             data-animation-out="fadeOut">
                                             <a id="MoviesGamesMegaMenu" className="nav-link u-header__nav-link u-header__nav-link-toggle" href="javascript:;" aria-haspopup="true" aria-expanded="false">Movies & Games</a>
 
                                             {/* <!-- Movies & Games - Mega Menu --> */}
-                                            <div className="hs-mega-menu w-100 u-header__sub-menu" aria-labelledby="MoviesGamesMegaMenu">
+                                            <div className="hs-mega-menu w-100 u-header__sub-menu d-block" aria-labelledby="MoviesGamesMegaMenu">
                                                 <div className="row u-header__mega-menu-wrapper">
                                                     <div className="col-md-4">
                                                         <div className="row">

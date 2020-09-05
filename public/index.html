@@ -56,7 +56,6 @@
   <!-- JS Implementing Plugins -->
   <script src="%PUBLIC_URL%/assets/vendor/appear.js"></script>
   <script src="%PUBLIC_URL%/assets/vendor/jquery.countdown.min.js"></script>
-  <script src="%PUBLIC_URL%/assets/vendor/hs-megamenu/src/hs.megamenu.js"></script>
   <script src="%PUBLIC_URL%/assets/vendor/svg-injector/dist/svg-injector.min.js"></script>
   <script
     src="%PUBLIC_URL%/assets/vendor/malihu-custom-scrollbar-plugin/jquery.mCustomScrollbar.concat.min.js"></script>
@@ -85,16 +84,6 @@
   <script src="%PUBLIC_URL%/assets/js/components/hs.selectpicker.js"></script>
   <!-- JS Plugins Init. -->
   <script>
-    $(window).on('load', function () {
-      // initialization of HSMegaMenu component
-      $('.js-mega-menu').HSMegaMenu({
-        event: 'hover',
-        direction: 'horizontal',
-        pageContainer: $('.container'),
-        breakpoint: 767.98,
-        hideTimeOut: 0
-      });
-    });
 
     $(document).on('ready', function () {
       // initialization of header
@@ -146,9 +135,6 @@
 
       // initialization of fancybox
       $.HSCore.components.HSFancyBox.init('.js-fancybox');
-
-      // // initialization of slick carousel
-      // $.HSCore.components.HSSlickCarousel.init('.js-slick-carousel');
 
       // initialization of go to
       $.HSCore.components.HSGoTo.init('.js-go-to');
