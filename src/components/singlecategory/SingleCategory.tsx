@@ -30,7 +30,7 @@ const sliderSettings = {
     draggable:true,
     autoplaySpeed: 5000,
     dots: true,
-    className: "position-static overflow-hidden u-slick-overflow-visble pt-3 pb-3",
+    className: "js-slick-carousel position-static overflow-hidden u-slick-overflow-visble pt-3 pb-3",
     // dotsClass: "",
     infinite: true,
     speed: 500,
